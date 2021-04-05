@@ -26,7 +26,7 @@
     'odoo-license': 'CE',
 
     # port where odoo starts serving pages
-    'port': '8070',
+    'port': '8069',
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
