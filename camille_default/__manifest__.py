@@ -1,8 +1,8 @@
 {
-    'name': 'camille',
+    'name': 'burzapo',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto camille",
+    'summary': "Proyecto burzapo",
     'author': 'Sdeh',
     'depends': [
         'base',
