@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-camille',
+        'https://github.com/sistemasdehudson/cl-burzapo',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
