@@ -1,9 +1,9 @@
 {
-    'name': 'burzapo',
+    'name': 'decentrales',
     'version': '13.0.0.0',
     'category': 'Tools',
-    'summary': "Proyecto burzapo",
-    'author': 'Sdeh',
+    'summary': "Proyecto decentrales",
+    'author': 'Decentrales',
     'depends': [
         'base',
     ],
@@ -30,7 +30,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-burzapo',
+        'https://github.com/JonatanGarbuyo/cl-decentrales',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
@@ -58,7 +58,7 @@
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
          ##
-        'https://github.com/sistemasdehudson/sdehposaddons.git',
+        #'https://github.com/sistemasdehudson/sdehposaddons.git',
     ],
 
     'docker-images': [
