@@ -59,6 +59,7 @@
         'https://github.com/odoomates/odooapps.git',
          ##
         #'https://github.com/sistemasdehudson/sdehposaddons.git',
+        'https://github.com/OCA/contract.git -b 13.0',
     ],
 
     'docker-images': [
